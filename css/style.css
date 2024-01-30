@@ -7,7 +7,7 @@
 
 
     .container {
-        background-image: url(Pictures/piotr-chrobot-6oUsyeYXgTg-unsplash.jpg);
+        background-image: url(../Pictures/piotr-chrobot-6oUsyeYXgTg-unsplash.jpg);
         height: 100vh;
         width: 100%;
         background-repeat: no-repeat;
@@ -248,73 +248,73 @@
     }
 
     .container3 .card:nth-child(1):hover {
-        background: url('Pictures/3.jpg') center center no-repeat;
+        background: url('../Pictures/3.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(2):hover {
-        background: url('Pictures/2.jpg') center center no-repeat;
+        background: url('../Pictures/2.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(3):hover {
-        background: url('Pictures/3.jpg') center center no-repeat;
+        background: url('../Pictures/3.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(4):hover {
-        background: url('Pictures/4.jpg') center center no-repeat;
+        background: url('../Pictures/4.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(5):hover {
-        background: url('Pictures/5.jpg') center center no-repeat;
+        background: url('../Pictures/5.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(6):hover {
-        background: url('Pictures/6.jpg') center center no-repeat;
+        background: url('../Pictures/6.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(7):hover {
-        background: url('Pictures/7.jpg') center center no-repeat;
+        background: url('../Pictures/7.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(8):hover {
-        background: url('Pictures/8.jpg') center center no-repeat;
+        background: url('../Pictures/8.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(9):hover {
-        background: url('Pictures/5.jpg') center center no-repeat;
+        background: url('../Pictures/5.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(10):hover {
-        background: url('Pictures/2.jpg') center center no-repeat;
+        background: url('../Pictures/2.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(11):hover {
-        background: url('Pictures/5.jpg') center center no-repeat;
+        background: url('../Pictures/5.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
 
     .container3 .card:nth-child(12):hover {
-        background: url('Pictures/8.jpg') center center no-repeat;
+        background: url('../Pictures/8.jpg') center center no-repeat;
         background-size: cover;
         color: white;
     }
